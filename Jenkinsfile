@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 pipeline{
     agent{
         label "nodejs"
@@ -39,4 +37,3 @@ pipeline{
         }
     }
 }
->>>>>>> f6feba16f27849fa8311457c829bb78f971a88b3
